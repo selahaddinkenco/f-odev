@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669657050623",
+    "project_id": "kitaplar-odev",
+    "storage_bucket": "kitaplar-odev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669657050623:android:52beb06c6d772652640bca",
+        "android_client_info": {
+          "package_name": "com.example.odev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-dzOQwBC8iajCOfkFVJPOlMzV0pha8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
